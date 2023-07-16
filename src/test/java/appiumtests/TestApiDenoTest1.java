@@ -72,7 +72,7 @@ public class TestApiDenoTest1 {
     }
     
     driver.findElement(By.xpath("//android.widget.LinearLayout[@content-desc=\"End\"]/android.widget.ImageView")).click() ;
-     System.out.println("Ho gaya bhai prank");
+     System.out.println("Ho gaya bhai prank 😅😆😆😆😂😂  ");
  
     Thread.sleep(2000);
 
